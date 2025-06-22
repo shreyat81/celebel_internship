@@ -26,7 +26,5 @@ sql-basics-week3/
 | 9  | `09_avg_population.sql`              | AVG and FLOOR               | [🔗](https://www.hackerrank.com/challenges/average-population/problem)                   |
 | 10 | `10_avg_population_by_continent.sql` | GROUP BY with AVG           | [🔗](https://www.hackerrank.com/challenges/average-population-of-each-continent/problem) |
 
-Arjun Singh
-6th Sem BTech (CSE AI/ML), Amity University Mohali
-asc03himank@gmail.com 
+
 
