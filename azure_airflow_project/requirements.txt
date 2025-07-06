@@ -1,0 +1,5 @@
+pandas
+pyarrow
+fastavro
+python-dotenv
+azure-storage-blob
